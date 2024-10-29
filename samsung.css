@@ -1,0 +1,43 @@
+H1{color: black;
+    background-color: blueviolet;
+
+}
+
+body{
+    color: black;
+    background-image: url(imagensamsung.jpg);
+    
+}
+.caja1{
+    color: black;
+    background-color: rgb(213, 244, 188);
+    width: 400px;
+    height: 200px;
+    margin-top: 100px;
+}
+.caja2{
+    color: black;
+    background-color: aquamarine;
+    width: 400px;
+    height:200px ;
+    margin-bottom: 50px;
+}
+
+.CAJA3{
+    color:black;
+    background-color: rgb(222, 140, 197);
+    width: 400px;
+    height: 200px;
+    margin-left: 87px;
+
+}
+.CAJA4{
+    color: black;
+    background-color: rgb(132, 229, 171);
+    width: 400px;
+    height: 200px;
+    margin-right: 79px;
+}
+footer{
+    background-color: rgb(230, 134, 171);
+}
